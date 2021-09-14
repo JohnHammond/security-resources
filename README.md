@@ -22,6 +22,9 @@ This is a living document to host and contain links and resources for online war
 
 * [Nightmare](https://guyinatuxedo.github.io)
 * [pwnable.xyz](https://pwnable.xyz)
+* [pwnable.kr](https://pwnable.kr)
+* [io.netgarage.org](https://io.netgarage.org)
+* [pwn.college](https://pwn.college/)
 
 <!-- ------------------------------------------------------- -->
 
