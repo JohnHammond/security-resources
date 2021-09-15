@@ -31,6 +31,11 @@ This is a living document to host and contain links and resources for online war
 
 <!-- ------------------------------------------------------- -->
 
+#### Kernel Exploitation
+  * [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
+  * [Writing Kernel Drivers](http://freesoftwaremagazine.com/articles/drivers_linux/)
+  * [willsroot.io](http://freesoftwaremagazine.com/articles/drivers_linux/)
+
 ### Browser Exploitation
 
 #### Tools
