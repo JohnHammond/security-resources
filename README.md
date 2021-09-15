@@ -6,16 +6,30 @@
 
 This is a living document to host and contain links and resources for online wargames, practice environments, and activities to learn new things in cybersecurity.
 
+<!-- ------------------------------------------------------- -->
+
 ## General Wargames
 
 * [PicoCTF](https://picoctf.com)
 * [TryHackMe](https://tryhackme.com)
-* [HackTheBox](https://hackthebox.com)
+* [HackTheBox](https://hackthebox.eu)
+
+#### Tools
+
+<!-- ------------------------------------------------------- -->
 
 ## Binary Exploitation
 
 * [Nightmare](https://guyinatuxedo.github.io)
 * [pwnable.xyz](https://pwnable.xyz)
+
+<!-- ------------------------------------------------------- -->
+
+### Kernel Exploitation
+
+#### Tools
+
+<!-- ------------------------------------------------------- -->
 
 #### Kernel Exploitation
   * [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
@@ -27,25 +41,53 @@ This is a living document to host and contain links and resources for online war
   * [LiveOverflow Browser Exploitation](https://www.youtube.com/watch?v=5tEdSoZ3mmE&list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
   * [UFSIT Browser Exploitation](https://www.youtube.com/watch?v=-bfO-b5gzHc)
 
+#### Tools
+
+<!-- ------------------------------------------------------- -->
+
 ## Cryptography 
 
 * [CryptoPals](https://cryptopals.com)
 * [CryptoHack](https://cryptohack.org)
 
+#### Tools
+
+<!-- ------------------------------------------------------- -->
+
 ## Forensics 
+
+#### Tools
+
+
+<!-- ------------------------------------------------------- -->
+
 
 ## Malware Analysis
 
 * [Blue Team Labs Online](https://blueteamlabs.online)
 
+#### Tools
+
+<!-- ------------------------------------------------------- -->
+
 ## Steganography
 
+#### Tools
 
+<!-- ------------------------------------------------------- -->
 
 ## Reverse Engineering
 
 * [Micro Corruption](https://microcorruption.com)
 
+#### Tools
+
+<!-- ------------------------------------------------------- -->
+
 ## Web Application Security
 
 * [OverTheWire - Natas](https://overthewire.org/wargames/natas/)
+
+
+
+<!-- ------------------------------------------------------- -->
