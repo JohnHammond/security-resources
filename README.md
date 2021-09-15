@@ -14,6 +14,9 @@ This is a living document to host and contain links and resources for online war
   * [willsroot.io](http://freesoftwaremagazine.com/articles/drivers_linux/)
 
 #### Browser Exploitation
+  * [faraz.faith](https://faraz.faith/)
+  * [LiveOverflow Browser Exploitation](https://www.youtube.com/watch?v=5tEdSoZ3mmE&list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
+  * [UFSIT Browser Exploitation](https://www.youtube.com/watch?v=-bfO-b5gzHc)
 
 ## Cryptography 
 
