@@ -191,7 +191,7 @@ This is a living document to host and contain links and resources for online war
 
 ## Operating Systems
 
-###Penetration testing and security lab Operating Systems*
+### Penetration testing and security lab Operating Systems*
 
 * [Android Tamer](https://androidtamer.com/) - Based on Debian.
 * [BackBox](https://backbox.org/) - Based on Ubuntu.
@@ -203,19 +203,19 @@ This is a living document to host and contain links and resources for online war
 * [URIX OS](http://urix.us/) - Based on openSUSE.
 * [Wifislax](http://www.wifislax.com/) - Based on Slackware.
 
-###Malware analysts and reverse-engineering*
+### Malware analysts and reverse-engineering*
 
 - [Flare VM](https://github.com/fireeye/flare-vm/) - Based on Windows.
 - [REMnux](https://remnux.org/) - Based on Debian.
 
 <!-- ------------------------------------------------------- -->
 
-##Collections of installer scripts, useful tools
+## Collections of installer scripts, useful tools
 
 * [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
 * [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
 
-###Tutorials to learn how to play CTFs
+### Tutorials to learn how to play CTFs
 
 * [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits.
 * [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community.
