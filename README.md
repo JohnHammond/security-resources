@@ -15,7 +15,8 @@ This is a living document to host and contain links and resources for online war
 * [HackTheBox](https://hackthebox.eu)
 * [VulnHub](https://www.vulnhub.com/)
 * [CTFLearn](https://ctflearn.com)
-
+* [Pentesterlab](https://pentesterlab.com/) 
+* [Proving grounds](https://portal.offensive-security.com/proving-grounds/play)
 #### Tools
 
 <!-- ------------------------------------------------------- -->
