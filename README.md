@@ -92,7 +92,7 @@ This is a living document to host and contain links and resources for online war
 ## Web Application Security
 
 * [OverTheWire - Natas](https://overthewire.org/wargames/natas/)
-
+* [Port Swigger / Burpsuite Academy](https://portswigger.net/web-security/dashboard)
 
 
 <!-- ------------------------------------------------------- -->
