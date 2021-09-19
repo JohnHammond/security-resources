@@ -60,11 +60,17 @@ This is a living document to host and contain links and resources for online war
 <!-- ------------------------------------------------------- -->
 
 ### Kernel Exploitation
+
   * [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
   * [Writing Kernel Drivers](http://freesoftwaremagazine.com/articles/drivers_linux/)
   * [willsroot.io](https://www.willsroot.io/)
 
+#### Tools
+
+<!-- ------------------------------------------------------- -->
+
 ### Browser Exploitation
+
   * [faraz.faith](https://faraz.faith/)
   * [LiveOverflow Browser Exploitation](https://www.youtube.com/watch?v=5tEdSoZ3mmE&list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
   * [UFSIT Browser Exploitation](https://www.youtube.com/watch?v=-bfO-b5gzHc)
